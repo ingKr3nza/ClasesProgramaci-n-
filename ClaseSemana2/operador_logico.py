@@ -11,7 +11,7 @@ print("=== SECCIÓN 1: Evaluando Expresiones Lógicas ===")
 
 edad_estudiante = 18
 tiene_carnet = False
-promedio_notas = 10
+promedio_notas = 5
 
 # Evaluación relacional
 es_mayor_de_edad = edad_estudiante >= 18

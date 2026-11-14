@@ -3,7 +3,7 @@
 # =============================================================================
 print("=== SECCIÓN 2: Control de Flujo con Condicionales ===")
 
-puntuacion_proyecto = 75
+puntuacion_proyecto = 94
 
 if puntuacion_proyecto >= 90:
     nivel = "Excelencia Tecno-Líder (A)"
